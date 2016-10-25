@@ -18,4 +18,5 @@ int main(){
         }
     }
     printf("Maximum Frequency is: %d\nNumber with maximum Frequency is: %d",max,c);
+    return 0;
 }
